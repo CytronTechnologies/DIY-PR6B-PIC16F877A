@@ -1,0 +1,68 @@
+[p LITE_MODE AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+[d frameptr 6 ]
+"51 D:\DIY\DIY-PR6B-PIC877A\New/Source file/Source Code PR6B.c
+[v _init init `(v  1 e 0 0 ]
+"62
+[v _display display `(v  1 e 0 0 ]
+"68
+[v _receive receive `(uc  1 e 1 0 ]
+"80
+[v _main main `(v  1 e 0 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic\eeprom.c
+[v _eecpymem eecpymem `(v  1 e 0 0 ]
+"24
+[v _memcpyee memcpyee `(v  1 e 0 0 ]
+"49 D:\DIY\DIY-PR6B-PIC877A\New/Source file/Source Code PR6B.c
+[v _a a `uc  1 e 1 0 ]
+"331 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic16f877a.h
+[v _PORTD PORTD `VEuc  1 e 1 @8 ]
+"1031
+[v _TXREG TXREG `VEuc  1 e 1 @25 ]
+"1037
+[v _RCREG RCREG `VEuc  1 e 1 @26 ]
+"1459
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+"2030
+[v _SPBRG SPBRG `VEuc  1 e 1 @153 ]
+"2341
+[v _BRGH BRGH `VEb  1 e 0 @1218 ]
+"2407
+[v _CREN CREN `VEb  1 e 0 @196 ]
+"2559
+[v _RCIF RCIF `VEb  1 e 0 @101 ]
+"2605
+[v _SPEN SPEN `VEb  1 e 0 @199 ]
+"2751
+[v _TXEN TXEN `VEb  1 e 0 @1221 ]
+"2755
+[v _TXIF TXIF `VEb  1 e 0 @100 ]
+"80 D:\DIY\DIY-PR6B-PIC877A\New/Source file/Source Code PR6B.c
+[v _main main `(v  1 e 0 0 ]
+{
+"132
+} 0
+"68
+[v _receive receive `(uc  1 e 1 0 ]
+{
+"73
+} 0
+"51
+[v _init init `(v  1 e 0 0 ]
+{
+"60
+} 0
+"62
+[v _display display `(v  1 e 0 0 ]
+{
+[v display@c c `uc  1 a 1 wreg ]
+[v display@c c `uc  1 a 1 wreg ]
+[v display@c c `uc  1 a 1 0 ]
+"66
+} 0
